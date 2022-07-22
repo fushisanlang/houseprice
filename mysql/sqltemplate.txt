@@ -1,0 +1,7 @@
+INSERT INTO metadata ( cityname, cityabbreviation, districtname, communityname, communityid, timestampstr, price )
+VALUES
+	( '长春', 'cc', '东关', '哈哈小区', 1, '1', 2 );
+
+
+
+INSERT INTO citydata (cityname, cityabbreviation, timestampstr, price) VALUES ( 'cc', 'cc', 'cc', 1),( 'cc', 'cc', 'cc', 1);
